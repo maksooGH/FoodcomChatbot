@@ -1,0 +1,1 @@
+Descriptions were to long, so I've used ChatGPT-4 to shorten it and fit into sytem for chat API.
