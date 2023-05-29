@@ -25,4 +25,4 @@ def process_file(file_path):
     write_data_to_file(file_path, data)
 
 # call the function with the path to your json file
-process_file('data/short_desc_products.json')
+process_file('data/system_products_data.json')

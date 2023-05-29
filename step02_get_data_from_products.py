@@ -38,3 +38,5 @@ for link in links:
 os.makedirs('data', exist_ok=True)
 with open('data/foodcom_products.json', 'w', encoding='utf-8') as f:
     json.dump(products, f, ensure_ascii=False)
+
+# NOTE: Descriptions were too long, so I've used ChatGPT-4 to shorten it and fit into sytem for chat API.
