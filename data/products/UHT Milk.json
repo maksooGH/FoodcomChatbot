@@ -1,0 +1,8 @@
+{
+    "name": "UHT Milk",
+    "desc": "UHT Milk contains lots of minerals and vitamin C. Heating milk with the UHT system does not reduce the content or biological value of milk protein, and even makes it more easily digestible by the human body due to easier access of digestive enzymes to the denatured protein molecules.",
+    "techs": "UHT Milk is produced by heating milk to around 140ᵒC for 2-5 seconds in order to sterilize the product and eradicate bacterial growth which causes the milk to spoil. During the production of UHT Milk, a Maillard reaction occurs, which leads to a change in color, taste and/or odor. After opening, it should be stored in the fridge.",
+    "shelf": "The shelf life of UHT Milk is up to 9 months depending on the method and temperature of pasteurization.",
+    "packaging": "UHT Milk should be stored in sterile, light-free containers, preferably in non-transparent plastic or cardboard boxes.",
+    "applications": "UHT Milk can be used as the base-line product for the majority of dairy segments. Depending on the process, it is used in the production of yogurts, butters, cheeses, creams, and many more."
+}
